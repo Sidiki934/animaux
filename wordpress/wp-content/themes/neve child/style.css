@@ -1,0 +1,18 @@
+/* Theme Name: neve child
+Template: neve
+Theme URI: https://sidcama@outlook.fr
+Author: Sidiki CAMARA
+Author URI: 
+Description: Theme enfant de school zone
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: neve child */
+
+.site-description{
+	font-weight: bolder;
+}
+
+.main-navigation{
+	text-align: center;
+}

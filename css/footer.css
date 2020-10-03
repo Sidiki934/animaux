@@ -1,0 +1,48 @@
+.foot{
+	background: linear-gradient(#FFFFFF, #9198e5);
+	border-bottom: 1px solid black;
+}
+.foo{
+	background: linear-gradient(#FFFFFF, #9198e5);
+	margin-bottom: 0px;
+}
+.foo>p{
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.title{
+	text-align: center;
+	/* color: white; */
+	font-size: 25px;
+}
+
+div.social{
+	
+	text-align: center;
+  	margin-top: 15px;
+  	
+
+}
+
+div.social>a{
+	margin-left: 10px;	
+}
+
+.question{
+	display: flex;
+	justify-content: space-around;
+
+	
+}
+
+.question>a{
+	text-decoration: none;
+	color: black;
+	background-color: grey;
+	padding: 5px 5px 0px 5px;
+	margin-top: 15px;
+	margin-right: 35px;
+	margin-bottom: 10px;
+
+}

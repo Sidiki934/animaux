@@ -1,0 +1,14 @@
+USE petgame;
+
+DROP TABLE IF EXISTS clients;
+
+CREATE TABLE IF NOT EXISTS clients(
+	cli_id INTEGER AUTO_INCREMENT PRIMARY KEY,
+	fname VARCHAR(30) NOT NULL,
+	mail VARCHAR(100) NOT NULL UNIQUE,
+	age INTEGER,
+	gender ENUM('F', 'M', 'N'),
+	dob DATE,
+	pass VARCHAR(50) NOT NULL
+	
+)ENGINE =InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;

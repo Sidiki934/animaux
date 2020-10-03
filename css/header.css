@@ -1,0 +1,43 @@
+nav{
+	background: linear-gradient(#FFFFFF, #9198e5);
+	border-bottom: 1px solid black;
+	
+}
+
+.head{
+	display: flex;
+	justify-content: space-between;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.logo{
+	margin-top: 15px;
+}
+.connexion{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 15px;
+}
+div.lol{
+	text-align: center;
+}
+.lol>a{
+	text-decoration: none;
+	color: black;
+}
+.menu{
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 10px;
+	
+}
+
+ .menu>a{
+	text-decoration: none;
+	color: black;
+	margin: 15px;
+	padding: 5px;
+	background-color: grey;
+
+}

@@ -1,0 +1,178 @@
+# Translation of Themes - School Zone in French (France)
+# This file is distributed under the same license as the Themes - School Zone package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 15:51:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - School Zone\n"
+
+#. Theme Name of the theme
+msgid "School Zone"
+msgstr "School Zone"
+
+#. Description of the theme
+msgid "School Zone is a child theme of Education Zone free WordPress theme. School Zone is designed to suit special requirements of educational institutions like college, school, university, LMS, Training Center, Academy, Primary School, High school and Kindergarten. School Zone is very versatile and can be used to build various types of corporate and business websites. The theme is highly customizable with various features and personalization options. Like the parent theme, School Zone includes features like custom menu, attractive banner, stats counter, courses section, testimonial section, banner with Call-to-Action(CTA) button, and social media. The theme is SEO friendly with optimized codes, which make it easy for your site to rank on Google and other search engines. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, School Zone helps you to easily and intuitively create professional and appealing websites. If your school, college or university needs an online home that is dynamic and multi-functional, this theme is a good place to start. Check the demo at https://demo.rarathemes.com/school-zone/, documentation at https://docs.rarathemes.com/docs/education-zone/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "School Zone est un thème enfant du thème WordPress gratuit Education Zone. School Zone est conçu pour répondre aux exigences spéciales des établissements d’enseignement comme le collège, l’école, l’université, LMS, centre de formation, académie, école primaire, école secondaire et maternelle. School Zone est très polyvalent et peut être utilisé pour construire divers types de sites web d’entreprise et d’affaires. Le thème est hautement personnalisable avec diverses fonctionnalités et options de personnalisation. Comme le thème parent, School Zone comprend des fonctionnalités comme un menu personnalisé, une bannière attrayante, un compteur de statistiques, une section de cours, une section de témoignage, une bannière avec bouton d’appel à action, et les réseaux sociaux. Le thème est optimisé pour le SEO avec des codes optimisés, ce qui rend facile pour votre site de se classer sur Google et d’autres moteurs de recherche. Le thème est rigoureusement testé et optimisé pour la vitesse et le temps de chargement de page plus rapide et a un code sécurisé et propre. Le thème est également prêt pour la traduction. Conçu avec l’engagement des visiteurs à l’esprit, School Zone vous aide à créer facilement et intuitivement des sites web professionnels et attrayants. Si votre école, collège ou université a besoin d’une maison en ligne qui est dynamique et multifonctionnelle, ce thème est un bon endroit pour commencer. Démonstration sur https://demo.rarathemes.com/school-zone/, documentation sur https://docs.rarathemes.com/docs/education-zone/, et obtenez du support sur https://rarathemes.com/support-ticket/."
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr "Aller au contenu (Pressez Entrée)"
+
+#: footer.php:58
+msgid "Powered by %s."
+msgstr "Propulsé par %s."
+
+#: footer.php:56
+msgid "School Zone | Developed By"
+msgstr "School Zone | Dévelopé par"
+
+#: functions.php:495
+msgid "Link Two Label"
+msgstr "Libellé de lien 2"
+
+#: footer.php:58
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: functions.php:236
+msgid "More WordPress Themes"
+msgstr "Autres thèmes WordPress"
+
+#: footer.php:52
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:52
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: functions.php:232
+msgid "Theme info"
+msgstr "Infos sur le thème"
+
+#: functions.php:230
+msgid "Theme Demo"
+msgstr "Démo du thème"
+
+#: functions.php:228 functions.php:230 functions.php:232 functions.php:234
+#: functions.php:236
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: functions.php:228
+msgid "Theme Documentation"
+msgstr "Documentation du thème"
+
+#: functions.php:217
+msgid "Demo and Documentation"
+msgstr "Démo et documentation"
+
+#: functions.php:395
+msgid "Banner Title"
+msgstr "Titre de la bannière"
+
+#: functions.php:374
+msgid "Post Banner"
+msgstr "Article de bannière"
+
+#: functions.php:368
+msgid "Banner Options"
+msgstr "Options de la bannière"
+
+#: functions.php:46
+msgid "Default Header Image"
+msgstr "Image d'en-tête par défaut"
+
+#: sections/section-slider.php:11 functions.php:485 functions.php:582
+msgid "Enquiry"
+msgstr "Demande de renseignements"
+
+#: sections/section-slider.php:9 functions.php:439 functions.php:575
+msgid "Get Started Now"
+msgstr "Commencez dès maintenant"
+
+#: functions.php:422
+msgid "Banner Description"
+msgstr "Description de la bannière"
+
+#: functions.php:302
+msgid "Address"
+msgstr "Adresse"
+
+#: functions.php:239
+msgid "About School Zone"
+msgstr "À propos de School Zone"
+
+#: functions.php:475
+msgid "Link One Url"
+msgstr "URL de lien 1"
+
+#: functions.php:449
+msgid "Link One Label"
+msgstr "Libellé de lien 1"
+
+#: functions.php:234
+msgid "Support Ticket"
+msgstr "Ticket de support"
+
+#: functions.php:373
+msgid "Static/Video CTA Banner"
+msgstr "Bannière statique/vidéo d’appel à action"
+
+#: functions.php:372
+msgid "Disable Banner Section"
+msgstr "Désactiver la section de bannière"
+
+#: functions.php:369
+msgid "Choose banner as static image/video."
+msgstr "Choisissez la bannière en image statique/vidéo."
+
+#: functions.php:259
+msgid "Banner Section"
+msgstr "Section de bannière"
+
+#: functions.php:327
+msgid "CTA Label"
+msgstr "Libellé d’appel à action"
+
+#: functions.php:250
+msgid "Header Settings"
+msgstr "Réglage d'en-tête"
+
+#: sections/section-slider.php:7 functions.php:385 functions.php:561
+msgid "Better Education for a Better World"
+msgstr "Une meilleurs éducation pour un monde meilleur"
+
+#: sections/section-slider.php:15
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: functions.php:521
+msgid "Link Two Url"
+msgstr "URL de lien 2"
+
+#: functions.php:351
+msgid "CTA Link"
+msgstr "Lien d’appel à action"
+
+#: sections/section-slider.php:8 functions.php:568
+msgid "Maecenas perspiciatis eleifend mollitia esse etiam rem harum? Sunt incididunt, sollicitudin earum anim quidem laoreet nibh, facilisis eiusmod!"
+msgstr "Maecenas perspiciatis eleifend mollitia esse etiam rem harum ? Sunt incididunt, sollicitudin earum anim quidem laoreet nibh, facilisis eiusmod !"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: footer.php:57
+msgid "Rara Theme"
+msgstr "Thème Rara"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/school-zone/"
+msgstr "https://rarathemes.com/wordpress-themes/school-zone/"
